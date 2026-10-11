@@ -1,0 +1,6 @@
+{
+  "name": "Winux Sim",
+  "description": "Retro and modern OS simulator game featuring Windows (95, 98, 2000, XP, Vista, 7, 8, 10, 11), Linux (Ubuntu, Debian, Arch, Kali, Mint, Fedora), and macOS (System 7, Mac OS 9, OS X Cheetah, Snow Leopard, Big Sur, Sonoma, Sequoia) - 100% free with all versions unlocked instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
